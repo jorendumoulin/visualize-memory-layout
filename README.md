@@ -1,5 +1,8 @@
-A simple tool to visualize datalayout mappings for a 2D matrix using a 4D-tiled-matrix strided layout.
+# Visualize Memory Layout
 
+A simple tool to visualize datalayout mappings for a 2D matrix using a 4D-tiled-matrix strided layout like this
+
+![Result of the visualization.](/result.png)
 
 The matrix is represented as follows:
 
